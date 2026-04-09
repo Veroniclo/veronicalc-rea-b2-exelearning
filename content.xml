@@ -1,0 +1,1607 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260409184341IHOY25</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260409184341IH63OF</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>3.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>SA &quot;APRENDER A APRENDER&quot;</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Verónica López Conejo</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Esta es una SA orientada al alumnado de 1º de la ESO. Cuya temática son las técnicas de estudio, bajo el título ·Aprender a aprender&quot;</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0-rc1</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1775752833603</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mnrpdzjg-garzrouly</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>SA &quot;APRENDER A APRENDER&quot;</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SA &quot;APRENDER A APRENDER&quot;</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SA &quot;APRENDER A APRENDER&quot;</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnrpdzjg-garzrouly</odePageId>
+      <odeBlockId>block-mnogzhqm-qfgpykaut</odeBlockId>
+      <blockName>Etapa educativa y nivel al que se dirige</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnrpdzjg-garzrouly</odePageId>
+          <odeBlockId>block-mnogzhqm-qfgpykaut</odeBlockId>
+          <odeIdeviceId>idevice-mnogzhqm-5zh2pdj7a</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p><span>Esta situación de aprendizaje esta dirigida a un grupo de alumnos y alumnas de 1º de Educación Secundaria Obligatoria.</span></p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p><span>Esta situación de aprendizaje esta dirigida a un grupo de alumnos y alumnas de 1º de Educación Secundaria Obligatoria.</span></p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mnrpdzjg-garzrouly</odePageId>
+      <odeBlockId>block-mnogzhqm-ywrqw9avv</odeBlockId>
+      <blockName>Materias (áreas o módulos) implicados</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnrpdzjg-garzrouly</odePageId>
+          <odeBlockId>block-mnogzhqm-ywrqw9avv</odeBlockId>
+          <odeIdeviceId>idevice-mnogzhqm-ggfr9ini2</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p>Dicha SA se trabajará de manera globalizada a través de las siguientes materias:</p>
+<p>- Lengua y Literatura Castellana</p>
+<p>- Matemáticas</p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p>Dicha SA se trabajará de manera globalizada a través de las siguientes materias:</p>\n<p>- Lengua y Literatura Castellana</p>\n<p>- Matemáticas</p>"}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mnrpdzjg-garzrouly</odePageId>
+      <odeBlockId>block-mnogzhqm-etym4w3f2</odeBlockId>
+      <blockName>Agrupamientos, organización espacial y número de sesiones</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnrpdzjg-garzrouly</odePageId>
+          <odeBlockId>block-mnogzhqm-etym4w3f2</odeBlockId>
+          <odeIdeviceId>idevice-mnogzhqm-ec0cs4sav</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p>Esta situación de aprendizaje se llevará a cabo durante el primer trimestre y constará:</p>
+<ul>
+<li>6 sesiones (de 55 minutos cada una).</li>
+</ul>
+<p>A lo largo del desarollo de la misma utilizaremos diferentes tipos de agrupamientos: </p>
+<ul style="list-style-type: disc;">
+<li>Gran grupo</li>
+<li>Pequeño grupo</li>
+<li>Parejas </li>
+<li>Individual </li>
+</ul>
+<p>Respecto a la organización espacial, utilizaremos:</p>
+<ul>
+<li>El aula de referencia.</li>
+</ul>
+<p></p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p>Esta situación de aprendizaje se llevará a cabo durante el primer trimestre y constará:</p>\n<ul>\n<li>6 sesiones (de 55 minutos cada una).</li>\n</ul>\n<p>A lo largo del desarollo de la misma utilizaremos diferentes tipos de agrupamientos: </p>\n<ul style=\"list-style-type: disc;\">\n<li>Gran grupo</li>\n<li>Pequeño grupo</li>\n<li>Parejas </li>\n<li>Individual </li>\n</ul>\n<p>Respecto a la organización espacial, utilizaremos:</p>\n<ul>\n<li>El aula de referencia.</li>\n</ul>\n<p></p>"}]]></jsonProperties>
+          <odeComponentsOrder>2</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mnrpdzjg-garzrouly</odePageId>
+      <odeBlockId>block-mnogzhqm-qkwxhunnm</odeBlockId>
+      <blockName>Productos realizados</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnrpdzjg-garzrouly</odePageId>
+          <odeBlockId>block-mnogzhqm-qkwxhunnm</odeBlockId>
+          <odeIdeviceId>idevice-mnogzhqm-vziconny0</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p>A lo largo de esta situación de aprendizaje realizaremos diferentes productos, como por ejemplo:</p>
+<ul>
+<li>
+<p>Infografía interactiva: <span style="font-size: 1.05em;">“Mi técnica de estudio favorita”.</span></p>
+</li>
+<li>
+<p><span style="font-size: 1.05em;"></span><span style="font-size: 1.05em;">Podcast educativo: </span><span style="font-size: 1.05em;">“Consejos para estudiar mejor”.</span></p>
+</li>
+<li><span style="font-size: 1.05em;">Mural colaborativo: </span>“Nuestras mejores técnicas de estudio”.</li>
+</ul>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p>A lo largo de esta situación de aprendizaje realizaremos diferentes productos, como por ejemplo:</p>\n<ul>\n<li>\n<p>Infografía interactiva: <span style=\"font-size: 1.05em;\">“Mi técnica de estudio favorita”.</span></p>\n</li>\n<li>\n<p><span style=\"font-size: 1.05em;\"></span><span style=\"font-size: 1.05em;\">Podcast educativo: </span><span style=\"font-size: 1.05em;\">“Consejos para estudiar mejor”.</span></p>\n</li>\n<li><span style=\"font-size: 1.05em;\">Mural colaborativo: </span>“Nuestras mejores técnicas de estudio”.</li>\n</ul>"}]]></jsonProperties>
+          <odeComponentsOrder>3</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mnrpdzjg-garzrouly</odePageId>
+      <odeBlockId>block-mnogzhqm-0m54ucgyu</odeBlockId>
+      <blockName>Herramientas Tecnológicas</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>4</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnrpdzjg-garzrouly</odePageId>
+          <odeBlockId>block-mnogzhqm-0m54ucgyu</odeBlockId>
+          <odeIdeviceId>idevice-mnogzhqm-peqjl71om</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p><br />A lo largo de esta situación de aprendizaje se han utilizado diferentes herramientas tecnológicas como por ejemplo: </p>
+<ul>
+<li>Canva</li>
+<li>Genially</li>
+<li>Audacity.</li>
+</ul>
+<p></p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p><br />A lo largo de esta situación de aprendizaje se han utilizado diferentes herramientas tecnológicas como por ejemplo: </p>\n<ul>\n<li>Canva</li>\n<li>Genially</li>\n<li>Audacity.</li>\n</ul>\n<p></p>"}]]></jsonProperties>
+          <odeComponentsOrder>4</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnrpdzji-cdur9zbiq</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>1. Intención educativa</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Intención educativa</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Intención educativa</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnrpdzji-cdur9zbiq</odePageId>
+      <odeBlockId>block-mnogzhqm-j5ru7toor</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnrpdzji-cdur9zbiq</odePageId>
+          <odeBlockId>block-mnogzhqm-j5ru7toor</odeBlockId>
+          <odeIdeviceId>idevice-mnogzhqm-q1fk2usyc</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mnrpdzji-cdur9zbiq</odePageId>
+      <odeBlockId>block-mnogzhqm-csps7mpqn</odeBlockId>
+      <blockName>1.1Justificación de su desarrollo y el impacto esperado</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnrpdzji-cdur9zbiq</odePageId>
+          <odeBlockId>block-mnogzhqm-csps7mpqn</odeBlockId>
+          <odeIdeviceId>idevice-mnogzhqm-wpr87d5ao</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p style="text-align: justify;">Con esta situación de aprendizaje, el alumnado de 1.º de ESO se convierte en explorador y exploradora de su propio aprendizaje, descubriendo lo fascinante que puede ser conocer cómo aprendemos y qué estrategias nos ayudan a hacerlo mejor.<br />De igual manera que en una investigación científica, los estudiantes observan, prueban y analizan distintas técnicas de estudio, fomentando la curiosidad, la reflexión y la experimentación, elementos esenciales para desarrollar la competencia aprender a aprender.</p>
+<p style="text-align: justify;">El proceso parte de su experiencia personal como estudiantes, lo que les permite conectar los contenidos con su realidad cotidiana. A través de la práctica de diferentes técnicas —como resúmenes, esquemas, mapas mentales o estrategias para resolver problemas matemáticos—, los alumnos comprenden la utilidad de planificar, organizar la información y gestionar su tiempo de estudio.<br />De este modo, se promueve un aprendizaje activo y autónomo, en el que cada estudiante se convierte en protagonista de su propio proceso educativo.</p>
+<p style="text-align: justify;">Además, esta situación de aprendizaje fomenta el trabajo cooperativo y la comunicación, ya que el alumnado comparte sus descubrimientos con los demás, contrasta ideas y colabora en la elaboración de productos comunes como la infografía interactiva, el podcast o el mural colaborativo.<br />Estas experiencias no solo fortalecen la competencia digital y comunicativa, sino que también desarrollan habilidades sociales esenciales, como la escucha, el respeto, la empatía y la responsabilidad compartida.</p>
+<p style="text-align: justify;">A través de estas actividades, el alumnado desarrolla la capacidad de pensar críticamente sobre su manera de aprender, reconociendo sus fortalezas y áreas de mejora, lo que favorece la autoconciencia y la autorregulación.<br />Asimismo, el uso de herramientas digitales y creativas convierte el proceso en una experiencia motivadora, visual y significativa, que conecta con sus intereses y formas de comunicación actuales.</p>
+<p style="text-align: justify;">Por último, esta situación de aprendizaje ofrece una oportunidad para trabajar de forma transversal valores y actitudes positivas hacia el esfuerzo, la constancia y la cooperación, contribuyendo a la construcción de hábitos de estudio sólidos que repercutirán en todas las materias y etapas educativas.</p>
+<p style="text-align: justify;">En definitiva, esta propuesta se justifica por su potencial para integrar el desarrollo personal, académico y digital del alumnado, ayudándoles a descubrir que aprender también se aprende y que conocer cómo hacerlo es el primer paso hacia un aprendizaje más eficaz, autónomo y significativo</p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p style=\"text-align: justify;\">Con esta situación de aprendizaje, el alumnado de 1.º de ESO se convierte en explorador y exploradora de su propio aprendizaje, descubriendo lo fascinante que puede ser conocer cómo aprendemos y qué estrategias nos ayudan a hacerlo mejor.<br />De igual manera que en una investigación científica, los estudiantes observan, prueban y analizan distintas técnicas de estudio, fomentando la curiosidad, la reflexión y la experimentación, elementos esenciales para desarrollar la competencia aprender a aprender.</p>\n<p style=\"text-align: justify;\">El proceso parte de su experiencia personal como estudiantes, lo que les permite conectar los contenidos con su realidad cotidiana. A través de la práctica de diferentes técnicas —como resúmenes, esquemas, mapas mentales o estrategias para resolver problemas matemáticos—, los alumnos comprenden la utilidad de planificar, organizar la información y gestionar su tiempo de estudio.<br />De este modo, se promueve un aprendizaje activo y autónomo, en el que cada estudiante se convierte en protagonista de su propio proceso educativo.</p>\n<p style=\"text-align: justify;\">Además, esta situación de aprendizaje fomenta el trabajo cooperativo y la comunicación, ya que el alumnado comparte sus descubrimientos con los demás, contrasta ideas y colabora en la elaboración de productos comunes como la infografía interactiva, el podcast o el mural colaborativo.<br />Estas experiencias no solo fortalecen la competencia digital y comunicativa, sino que también desarrollan habilidades sociales esenciales, como la escucha, el respeto, la empatía y la responsabilidad compartida.</p>\n<p style=\"text-align: justify;\">A través de estas actividades, el alumnado desarrolla la capacidad de pensar críticamente sobre su manera de aprender, reconociendo sus fortalezas y áreas de mejora, lo que favorece la autoconciencia y la autorregulación.<br />Asimismo, el uso de herramientas digitales y creativas convierte el proceso en una experiencia motivadora, visual y significativa, que conecta con sus intereses y formas de comunicación actuales.</p>\n<p style=\"text-align: justify;\">Por último, esta situación de aprendizaje ofrece una oportunidad para trabajar de forma transversal valores y actitudes positivas hacia el esfuerzo, la constancia y la cooperación, contribuyendo a la construcción de hábitos de estudio sólidos que repercutirán en todas las materias y etapas educativas.</p>\n<p style=\"text-align: justify;\">En definitiva, esta propuesta se justifica por su potencial para integrar el desarrollo personal, académico y digital del alumnado, ayudándoles a descubrir que aprender también se aprende y que conocer cómo hacerlo es el primer paso hacia un aprendizaje más eficaz, autónomo y significativo</p>"}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mnrpdzji-cdur9zbiq</odePageId>
+      <odeBlockId>block-mnogzhqm-ngpd5qb5q</odeBlockId>
+      <blockName>Relación de la SdA con los ODS y Retos del siglo XXI</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnrpdzji-cdur9zbiq</odePageId>
+          <odeBlockId>block-mnogzhqm-ngpd5qb5q</odeBlockId>
+          <odeIdeviceId>idevice-mnogzhqm-n7byie0iz</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p>Esta situación de aprendizaje se alinea con varios <strong>Objetivos de Desarrollo Sostenible</strong> (ODS):</p>
+<ul>
+<li style="text-align: justify;"><strong>ODS 4: “Educación de Calidad”</strong><br />Se promueve un aprendizaje inclusivo, equitativo y de calidad, fomentando la adquisición de competencias clave como la autonomía, la organización, la gestión emocional y la competencia digital. El alumnado aprende a aprender, reflexionando sobre sus propios procesos cognitivos y desarrollando hábitos de estudio eficaces que les permitirán continuar aprendiendo a lo largo de la vida.</li>
+<li style="text-align: justify;"><strong>ODS 5: “Igualdad de Género”:</strong><br />Se asegura la participación equitativa de todos los estudiantes, promoviendo la igualdad de oportunidades y la valoración del trabajo cooperativo, en el que las aportaciones de cada miembro del grupo tienen la misma importancia, independientemente del género.</li>
+<li style="text-align: justify;"><strong>ODS 9: “Industria, Innovación e Infraestructura”</strong><br />A través del uso de herramientas tecnológicas y digitales, como la creación de infografías y podcasts, se potencia la creatividad, la innovación y el uso responsable de las TIC, preparando al alumnado para los retos de la sociedad        digital del siglo XXI.</li>
+<li><strong>ODS 10: “Reducción de las Desigualdades”</strong><br />La metodología inclusiva y el uso del Diseño Universal para el Aprendizaje (DUA) garantizan que todos los alumnos puedan participar activamente, adaptando los recursos y estrategias a las necesidades de cada uno, fomentando así la equidad educativa.</li>
+</ul>
+<p><br /><strong>Retos del S. XXI:</strong></p>
+<ul>
+<li style="text-align: justify;"><strong>Pensamiento crítico y cultura digital</strong><br />El alumnado analiza distintas estrategias de aprendizaje y elige las más adecuadas según sus necesidades, desarrollando pensamiento crítico sobre su propio proceso y aprovechando las oportunidades de la cultura digital de manera responsable.</li>
+<li><strong>Medio ambiente y consumo responsable</strong><br />Aunque el foco principal no es ambiental, la SdA promueve el consumo responsable de recursos digitales y materiales escolares, fomentando la sostenibilidad en el entorno educativo.</li>
+<li><strong>Aprender a lo largo de la vida</strong><br />Este reto está en el núcleo de la SdA: los estudiantes descubren cómo aprender mejor, adquiriendo herramientas que les permitirán seguir aprendiendo de forma autónoma en cualquier momento de su vida.</li>
+<li><strong>Aceptar la incertidumbre / Equidad e inclusión</strong><br />Se fomenta la flexibilidad y la adaptación ante nuevos desafíos de aprendizaje, promoviendo la tolerancia al error como parte del proceso educativo y el respeto por la diversidad del grupo.</li>
+<li><strong>Cooperar y convivir</strong><br />Las tareas colaborativas (como la elaboración del mural y la infografía interactiva) promueven la cooperación, la comunicación y el respeto entre iguales, valores esenciales para convivir en una sociedad abierta y diversa.</li>
+<li><strong>Vida saludable / Proyecto colectivo</strong><br />Se trabaja la gestión emocional, la organización del tiempo y la planificación como hábitos de estudio saludables. Además, el sentimiento de pertenencia a un grupo que aprende y crea juntos refuerza la motivación y el bienestar personal.</li>
+</ul>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p>Esta situación de aprendizaje se alinea con varios <strong>Objetivos de Desarrollo Sostenible</strong> (ODS):</p>\n<ul>\n<li style=\"text-align: justify;\"><strong>ODS 4: “Educación de Calidad”</strong><br />Se promueve un aprendizaje inclusivo, equitativo y de calidad, fomentando la adquisición de competencias clave como la autonomía, la organización, la gestión emocional y la competencia digital. El alumnado aprende a aprender, reflexionando sobre sus propios procesos cognitivos y desarrollando hábitos de estudio eficaces que les permitirán continuar aprendiendo a lo largo de la vida.</li>\n<li style=\"text-align: justify;\"><strong>ODS 5: “Igualdad de Género”:</strong><br />Se asegura la participación equitativa de todos los estudiantes, promoviendo la igualdad de oportunidades y la valoración del trabajo cooperativo, en el que las aportaciones de cada miembro del grupo tienen la misma importancia, independientemente del género.</li>\n<li style=\"text-align: justify;\"><strong>ODS 9: “Industria, Innovación e Infraestructura”</strong><br />A través del uso de herramientas tecnológicas y digitales, como la creación de infografías y podcasts, se potencia la creatividad, la innovación y el uso responsable de las TIC, preparando al alumnado para los retos de la sociedad        digital del siglo XXI.</li>\n<li><strong>ODS 10: “Reducción de las Desigualdades”</strong><br />La metodología inclusiva y el uso del Diseño Universal para el Aprendizaje (DUA) garantizan que todos los alumnos puedan participar activamente, adaptando los recursos y estrategias a las necesidades de cada uno, fomentando así la equidad educativa.</li>\n</ul>\n<p><br /><strong>Retos del S. XXI:</strong></p>\n<ul>\n<li style=\"text-align: justify;\"><strong>Pensamiento crítico y cultura digital</strong><br />El alumnado analiza distintas estrategias de aprendizaje y elige las más adecuadas según sus necesidades, desarrollando pensamiento crítico sobre su propio proceso y aprovechando las oportunidades de la cultura digital de manera responsable.</li>\n<li><strong>Medio ambiente y consumo responsable</strong><br />Aunque el foco principal no es ambiental, la SdA promueve el consumo responsable de recursos digitales y materiales escolares, fomentando la sostenibilidad en el entorno educativo.</li>\n<li><strong>Aprender a lo largo de la vida</strong><br />Este reto está en el núcleo de la SdA: los estudiantes descubren cómo aprender mejor, adquiriendo herramientas que les permitirán seguir aprendiendo de forma autónoma en cualquier momento de su vida.</li>\n<li><strong>Aceptar la incertidumbre / Equidad e inclusión</strong><br />Se fomenta la flexibilidad y la adaptación ante nuevos desafíos de aprendizaje, promoviendo la tolerancia al error como parte del proceso educativo y el respeto por la diversidad del grupo.</li>\n<li><strong>Cooperar y convivir</strong><br />Las tareas colaborativas (como la elaboración del mural y la infografía interactiva) promueven la cooperación, la comunicación y el respeto entre iguales, valores esenciales para convivir en una sociedad abierta y diversa.</li>\n<li><strong>Vida saludable / Proyecto colectivo</strong><br />Se trabaja la gestión emocional, la organización del tiempo y la planificación como hábitos de estudio saludables. Además, el sentimiento de pertenencia a un grupo que aprende y crea juntos refuerza la motivación y el bienestar personal.</li>\n</ul>"}]]></jsonProperties>
+          <odeComponentsOrder>2</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnrpdzjk-zklqih0fh</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>2. Elementos curriculares</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Elementos curriculares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Elementos curriculares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnrpdzjk-zklqih0fh</odePageId>
+      <odeBlockId>block-mnogzhqm-2b9eoroys</odeBlockId>
+      <blockName>2.1 Competencias clave</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnrpdzjk-zklqih0fh</odePageId>
+          <odeBlockId>block-mnogzhqm-2b9eoroys</odeBlockId>
+          <odeIdeviceId>idevice-mnogzhqm-k171cubt8</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p></p>
+<ol>
+<li style="text-align: justify;"><strong>Competencia en comunicación lingüística (CCL)</strong><br />El alumnado desarrolla la capacidad de comprender, expresar e interpretar pensamientos, sentimientos y hechos de forma oral y escrita en diversos contextos.<br />A través de la exposición de ideas, la elaboración de resúmenes, esquemas y materiales digitales, mejora su competencia comunicativa y su vocabulario académico.</li>
+<li style="text-align: justify;"><strong>Competencia matemática y competencia en ciencia, tecnología e ingeniería (STEM)</strong><br />Se fomenta la organización lógica del pensamiento, la resolución de problemas y la aplicación de estrategias para comprender conceptos matemáticos o científicos.</li>
+<li style="text-align: justify;"><strong> Competencia digital (CD)</strong><br />Mediante el uso de herramientas digitales como Canva, Genially, Audacity , el alumnado crea y comparte contenidos multimedia, aprende a buscar información de forma segura y reflexiona sobre el uso ético y responsable de la tecnología.<br />Desarrolla así habilidades para desenvolverse de manera crítica y creativa en entornos digitales.</li>
+<li style="text-align: justify;"><strong>Competencia personal, social y de aprender a aprender (CPSAA)</strong><br />Es la competencia nuclear de esta situación de aprendizaje.<br />El alumnado reflexiona sobre sus propios procesos cognitivos, identifica estrategias que mejoran su rendimiento, gestiona sus emociones ante los retos y aprende a planificar su tiempo.<br />Se potencia la autonomía, la autorregulación, la motivación y la perseverancia como bases del aprendizaje a lo largo de la vida.</li>
+<li style="text-align: justify;"> <strong>Competencia ciudadana (CC)</strong><br />El trabajo cooperativo y la toma de decisiones compartidas desarrollan la capacidad de participar de forma constructiva, respetuosa y solidaria en la vida del aula.<br />Se promueve la empatía, la convivencia democrática y la resolución pacífica de conflictos, favoreciendo el respeto a la diversidad.</li>
+<li style="text-align: justify;"><strong>Competencia en conciencia y expresión culturales (CCEC)</strong><br />A través de la creación de productos como el mural, la infografía interactiva o el podcast, el alumnado expresa ideas y emociones de manera creativa.<br />Se potencia la apreciación del valor estético y la capacidad para comunicar de forma artística y cultural, reconociendo la creatividad como una herramienta de aprendizaje.</li>
+</ol>
+<p></p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p></p>\n<ol>\n<li style=\"text-align: justify;\"><strong>Competencia en comunicación lingüística (CCL)</strong><br />El alumnado desarrolla la capacidad de comprender, expresar e interpretar pensamientos, sentimientos y hechos de forma oral y escrita en diversos contextos.<br />A través de la exposición de ideas, la elaboración de resúmenes, esquemas y materiales digitales, mejora su competencia comunicativa y su vocabulario académico.</li>\n<li style=\"text-align: justify;\"><strong>Competencia matemática y competencia en ciencia, tecnología e ingeniería (STEM)</strong><br />Se fomenta la organización lógica del pensamiento, la resolución de problemas y la aplicación de estrategias para comprender conceptos matemáticos o científicos.</li>\n<li style=\"text-align: justify;\"><strong> Competencia digital (CD)</strong><br />Mediante el uso de herramientas digitales como Canva, Genially, Audacity , el alumnado crea y comparte contenidos multimedia, aprende a buscar información de forma segura y reflexiona sobre el uso ético y responsable de la tecnología.<br />Desarrolla así habilidades para desenvolverse de manera crítica y creativa en entornos digitales.</li>\n<li style=\"text-align: justify;\"><strong>Competencia personal, social y de aprender a aprender (CPSAA)</strong><br />Es la competencia nuclear de esta situación de aprendizaje.<br />El alumnado reflexiona sobre sus propios procesos cognitivos, identifica estrategias que mejoran su rendimiento, gestiona sus emociones ante los retos y aprende a planificar su tiempo.<br />Se potencia la autonomía, la autorregulación, la motivación y la perseverancia como bases del aprendizaje a lo largo de la vida.</li>\n<li style=\"text-align: justify;\"> <strong>Competencia ciudadana (CC)</strong><br />El trabajo cooperativo y la toma de decisiones compartidas desarrollan la capacidad de participar de forma constructiva, respetuosa y solidaria en la vida del aula.<br />Se promueve la empatía, la convivencia democrática y la resolución pacífica de conflictos, favoreciendo el respeto a la diversidad.</li>\n<li style=\"text-align: justify;\"><strong>Competencia en conciencia y expresión culturales (CCEC)</strong><br />A través de la creación de productos como el mural, la infografía interactiva o el podcast, el alumnado expresa ideas y emociones de manera creativa.<br />Se potencia la apreciación del valor estético y la capacidad para comunicar de forma artística y cultural, reconociendo la creatividad como una herramienta de aprendizaje.</li>\n</ol>\n<p></p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mnrpdzjk-zklqih0fh</odePageId>
+      <odeBlockId>block-mnogzhqm-im281h2u2</odeBlockId>
+      <blockName>2.2 Competencias específicas: Detalla las competencias específicas.</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnrpdzjk-zklqih0fh</odePageId>
+          <odeBlockId>block-mnogzhqm-im281h2u2</odeBlockId>
+          <odeIdeviceId>idevice-mnogzhqm-h6dmsytny</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<ul>
+<li><span style="text-decoration: underline;"><strong>Competencia específica 1</strong></span></li>
+</ul>
+<p style="text-align: justify;">Identificar y utilizar estrategias básicas de comprensión, análisis y organización de la información en distintos formatos (textos, esquemas, tablas o gráficos), aplicándolas de manera guiada en su propio proceso de aprendizaje para mejorar la adquisición de conocimientos.</p>
+<p style="text-align: justify;"><em><strong>Conectada con las competencias clave: CCL, STEM, CD, CPSAA.</strong></em></p>
+<ul>
+<li><span style="text-decoration: underline;"><strong>Competencia específica 2</strong></span></li>
+</ul>
+<p>Producir textos orales, escritos o multimodales coherentes y adecuados al contexto académico, demostrando capacidad para expresar ideas, resumir contenidos y planificar tareas de estudio.</p>
+<p><em><strong>Conectada con las competencias clave: CCL, CD, CPSAA, CE, CCEC.</strong></em></p>
+<ul>
+<li><span style="text-decoration: underline;"><strong>Competencia específica 3</strong></span></li>
+</ul>
+<p>Aplicar estrategias de resolución de problemas y razonamiento lógico, utilizando herramientas matemáticas básicas para organizar, comparar y representar información relevante del estudio.<br /><em><strong>Conectada con las competencias clave: STEM, CD, CPSAA.</strong></em></p>
+<ul>
+<li><span style="text-decoration: underline;"><strong>Competencia específica 4</strong></span></li>
+</ul>
+<p>Desarrollar destrezas personales y sociales, identificando y gestionando emociones, mostrando perseverancia, curiosidad y actitud positiva ante los retos del aprendizaje.<br /><em><strong>Conectada con las competencias clave: CPSAA, CC, CE.</strong></em></p>
+<ul>
+<li><span style="text-decoration: underline;"><strong>Competencia específica 5</strong></span></li>
+</ul>
+<p>Utilizar herramientas digitales de manera responsable y eficaz para buscar, seleccionar, organizar y comunicar información, potenciando la autonomía y el aprendizaje autorregulado.<br /><em><strong>Conectada con las competencias clave: CD, CPSAA, CCL, CE.</strong></em></p>
+<ul>
+<li><span style="text-decoration: underline;"><strong>Competencia específica 6</strong></span></li>
+</ul>
+<p>Colaborar activamente en actividades grupales, demostrando empatía, escucha activa y responsabilidad compartida en la elaboración de productos como infografías, podcasts o murales digitales.<br /><em><strong>Conectada con las competencias clave: CC, CPSAA, CCL, CE, CCEC.</strong></em></p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<ul>\n<li><span style=\"text-decoration: underline;\"><strong>Competencia específica 1</strong></span></li>\n</ul>\n<p style=\"text-align: justify;\">Identificar y utilizar estrategias básicas de comprensión, análisis y organización de la información en distintos formatos (textos, esquemas, tablas o gráficos), aplicándolas de manera guiada en su propio proceso de aprendizaje para mejorar la adquisición de conocimientos.</p>\n<p style=\"text-align: justify;\"><em><strong>Conectada con las competencias clave: CCL, STEM, CD, CPSAA.</strong></em></p>\n<ul>\n<li><span style=\"text-decoration: underline;\"><strong>Competencia específica 2</strong></span></li>\n</ul>\n<p>Producir textos orales, escritos o multimodales coherentes y adecuados al contexto académico, demostrando capacidad para expresar ideas, resumir contenidos y planificar tareas de estudio.</p>\n<p><em><strong>Conectada con las competencias clave: CCL, CD, CPSAA, CE, CCEC.</strong></em></p>\n<ul>\n<li><span style=\"text-decoration: underline;\"><strong>Competencia específica 3</strong></span></li>\n</ul>\n<p>Aplicar estrategias de resolución de problemas y razonamiento lógico, utilizando herramientas matemáticas básicas para organizar, comparar y representar información relevante del estudio.<br /><em><strong>Conectada con las competencias clave: STEM, CD, CPSAA.</strong></em></p>\n<ul>\n<li><span style=\"text-decoration: underline;\"><strong>Competencia específica 4</strong></span></li>\n</ul>\n<p>Desarrollar destrezas personales y sociales, identificando y gestionando emociones, mostrando perseverancia, curiosidad y actitud positiva ante los retos del aprendizaje.<br /><em><strong>Conectada con las competencias clave: CPSAA, CC, CE.</strong></em></p>\n<ul>\n<li><span style=\"text-decoration: underline;\"><strong>Competencia específica 5</strong></span></li>\n</ul>\n<p>Utilizar herramientas digitales de manera responsable y eficaz para buscar, seleccionar, organizar y comunicar información, potenciando la autonomía y el aprendizaje autorregulado.<br /><em><strong>Conectada con las competencias clave: CD, CPSAA, CCL, CE.</strong></em></p>\n<ul>\n<li><span style=\"text-decoration: underline;\"><strong>Competencia específica 6</strong></span></li>\n</ul>\n<p>Colaborar activamente en actividades grupales, demostrando empatía, escucha activa y responsabilidad compartida en la elaboración de productos como infografías, podcasts o murales digitales.<br /><em><strong>Conectada con las competencias clave: CC, CPSAA, CCL, CE, CCEC.</strong></em></p>"}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mnrpdzjk-zklqih0fh</odePageId>
+      <odeBlockId>block-mnogzhqm-6yy9z5yvo</odeBlockId>
+      <blockName>2.3 Saberes Básicos: Identifica los conocimientos y habilidades integrados en la situación de aprendizaje</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnrpdzjk-zklqih0fh</odePageId>
+          <odeBlockId>block-mnogzhqm-6yy9z5yvo</odeBlockId>
+          <odeIdeviceId>idevice-mnogzhqm-pywcd53ex</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<table border="1" style="width: 98.6962%; height: 106px;" height="325">
+<tbody>
+<tr style="height: 36px;">
+<td style="width: 37.5384%; height: 36px; border-color: #736e6e; background-color: #736e6e; text-align: center;"><span style="color: #000000;"><strong>Saberes Básicos (Decreto 59/2022)</strong></span></td>
+<td style="width: 41.0722%; height: 36px; text-align: center; border-color: #736e6e; background-color: #736e6e;"><span style="color: #000000;"><strong>Actividades o tareas de la SdA “Aprender a aprender”</strong></span></td>
+<td style="width: 25.171%; text-align: center; height: 36px; border-color: #736e6e; background-color: #736e6e;"><span style="color: #000000;"><strong>Competencias Clave Relacionadas</strong></span></td>
+</tr>
+<tr style="height: 10px;">
+<td style="width: 37.5384%; height: 10px;">Estrategias de comprensión y producción de textos orales, escritos y multimodales.</td>
+<td style="width: 41.0722%; height: 10px; text-align: justify;">Lectura y análisis de textos informativos sobre técnicas de estudio. Elaboración de resúmenes y esquemas.</td>
+<td style="width: 25.171%; height: 10px;">CCL, CPSAA, CD</td>
+</tr>
+<tr style="height: 10px;">
+<td style="width: 37.5384%; height: 10px;">Identificación de la intención comunicativa y uso de registros adecuados.</td>
+<td style="width: 41.0722%; height: 10px;">Creación de un guion para el podcast “Consejos para estudiar mejor”.</td>
+<td style="width: 25.171%; height: 10px;">CCL, CP, CE</td>
+</tr>
+<tr style="height: 10px;">
+<td style="width: 37.5384%; height: 10px;">Reconocimiento de los elementos lingüísticos y ortográficos en la producción textual.</td>
+<td style="width: 41.0722%; height: 10px;">Revisión colaborativa de los textos de la infografía y del mural final.</td>
+<td style="width: 25.171%; height: 10px;">CCL, CPSAA, CCEC</td>
+</tr>
+<tr style="height: 10px;">
+<td style="width: 37.5384%; height: 10px;">Desarrollo de técnicas de estudio: subrayado, resumen, esquemas, mapas conceptuales.</td>
+<td style="width: 41.0722%; height: 10px;">Aplicación práctica de diferentes técnicas a textos de Lengua y problemas de Matemáticas.</td>
+<td style="width: 25.171%; height: 10px;">CPSAA, STEM, CCL</td>
+</tr>
+<tr style="height: 10px;">
+<td style="width: 37.5384%; height: 10px;">Uso de diccionarios, fuentes y recursos digitales para la búsqueda y organización de información.</td>
+<td style="width: 41.0722%; height: 10px;">Búsqueda de información en línea sobre métodos de estudio y herramientas digitales.</td>
+<td style="width: 25.171%; height: 10px;">CD, CCL, CPSAA</td>
+</tr>
+<tr style="height: 10px;">
+<td style="width: 37.5384%; height: 10px;">Uso responsable y creativo de las herramientas digitales.</td>
+<td style="width: 41.0722%; height: 10px;">Creación de infografía interactivas en Canva; edición de un podcast con Audacity.</td>
+<td style="width: 25.171%; height: 10px;">CD, CE, CCEC</td>
+</tr>
+<tr style="height: 10px;">
+<td style="width: 37.5384%; height: 10px;">Sentido numérico: aplicación del cálculo y estimación en la organización de tareas.</td>
+<td style="width: 41.0722%; height: 10px;">Elaboración de un horario de estudio equilibrado y razonado.</td>
+<td style="width: 25.171%; height: 10px;">STEM, CPSAA</td>
+</tr>
+<tr>
+<td style="width: 37.5384%;">Relaciones y patrones: uso del pensamiento lógico para organizar la información.</td>
+<td style="width: 41.0722%;">Creación de esquemas y mapas mentales para planificar contenidos de estudio.</td>
+<td style="width: 25.171%;">STEM, CPSAA</td>
+</tr>
+<tr>
+<td style="width: 37.5384%;">Representación e interpretación de datos.</td>
+<td style="width: 41.0722%;">Diseño de una tabla o gráfico para representar hábitos de estudio o tiempo dedicado a cada materia.</td>
+<td style="width: 25.171%;">STEM, CD, CPSAA</td>
+</tr>
+<tr>
+<td style="width: 37.5384%;">Gestión emocional y autorregulación del aprendizaje.</td>
+<td style="width: 41.0722%;">Autoevaluación final sobre el propio proceso de aprendizaje y emociones implicadas.</td>
+<td style="width: 25.171%;">CPSAA, CC</td>
+</tr>
+<tr>
+<td style="width: 37.5384%;">Trabajo cooperativo y comunicación asertiva.</td>
+<td style="width: 41.0722%;">Elaboración grupal del mural colaborativo y exposición final ante la clase.</td>
+<td style="width: 25.171%;">CC, CCL, CE</td>
+</tr>
+<tr>
+<td style="width: 37.5384%;">Valoración del lenguaje como herramienta de comunicación, convivencia y aprendizaje.</td>
+<td style="width: 41.0722%;">Reflexión final compartida: “¿Qué he aprendido sobre mí y mi forma de estudiar?”.</td>
+<td style="width: 25.171%;">CCL, CPSAA, CC</td>
+</tr>
+<tr>
+<td style="width: 37.5384%;"></td>
+<td style="width: 41.0722%;"></td>
+<td style="width: 25.171%;"></td>
+</tr>
+</tbody>
+</table>
+<p></p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<table border=\"1\" style=\"width: 98.6962%; height: 106px;\" height=\"325\">\n<tbody>\n<tr style=\"height: 36px;\">\n<td style=\"width: 37.5384%; height: 36px; border-color: #736e6e; background-color: #736e6e; text-align: center;\"><span style=\"color: #000000;\"><strong>Saberes Básicos (Decreto 59/2022)</strong></span></td>\n<td style=\"width: 41.0722%; height: 36px; text-align: center; border-color: #736e6e; background-color: #736e6e;\"><span style=\"color: #000000;\"><strong>Actividades o tareas de la SdA “Aprender a aprender”</strong></span></td>\n<td style=\"width: 25.171%; text-align: center; height: 36px; border-color: #736e6e; background-color: #736e6e;\"><span style=\"color: #000000;\"><strong>Competencias Clave Relacionadas</strong></span></td>\n</tr>\n<tr style=\"height: 10px;\">\n<td style=\"width: 37.5384%; height: 10px;\">Estrategias de comprensión y producción de textos orales, escritos y multimodales.</td>\n<td style=\"width: 41.0722%; height: 10px; text-align: justify;\">Lectura y análisis de textos informativos sobre técnicas de estudio. Elaboración de resúmenes y esquemas.</td>\n<td style=\"width: 25.171%; height: 10px;\">CCL, CPSAA, CD</td>\n</tr>\n<tr style=\"height: 10px;\">\n<td style=\"width: 37.5384%; height: 10px;\">Identificación de la intención comunicativa y uso de registros adecuados.</td>\n<td style=\"width: 41.0722%; height: 10px;\">Creación de un guion para el podcast “Consejos para estudiar mejor”.</td>\n<td style=\"width: 25.171%; height: 10px;\">CCL, CP, CE</td>\n</tr>\n<tr style=\"height: 10px;\">\n<td style=\"width: 37.5384%; height: 10px;\">Reconocimiento de los elementos lingüísticos y ortográficos en la producción textual.</td>\n<td style=\"width: 41.0722%; height: 10px;\">Revisión colaborativa de los textos de la infografía y del mural final.</td>\n<td style=\"width: 25.171%; height: 10px;\">CCL, CPSAA, CCEC</td>\n</tr>\n<tr style=\"height: 10px;\">\n<td style=\"width: 37.5384%; height: 10px;\">Desarrollo de técnicas de estudio: subrayado, resumen, esquemas, mapas conceptuales.</td>\n<td style=\"width: 41.0722%; height: 10px;\">Aplicación práctica de diferentes técnicas a textos de Lengua y problemas de Matemáticas.</td>\n<td style=\"width: 25.171%; height: 10px;\">CPSAA, STEM, CCL</td>\n</tr>\n<tr style=\"height: 10px;\">\n<td style=\"width: 37.5384%; height: 10px;\">Uso de diccionarios, fuentes y recursos digitales para la búsqueda y organización de información.</td>\n<td style=\"width: 41.0722%; height: 10px;\">Búsqueda de información en línea sobre métodos de estudio y herramientas digitales.</td>\n<td style=\"width: 25.171%; height: 10px;\">CD, CCL, CPSAA</td>\n</tr>\n<tr style=\"height: 10px;\">\n<td style=\"width: 37.5384%; height: 10px;\">Uso responsable y creativo de las herramientas digitales.</td>\n<td style=\"width: 41.0722%; height: 10px;\">Creación de infografía interactivas en Canva; edición de un podcast con Audacity.</td>\n<td style=\"width: 25.171%; height: 10px;\">CD, CE, CCEC</td>\n</tr>\n<tr style=\"height: 10px;\">\n<td style=\"width: 37.5384%; height: 10px;\">Sentido numérico: aplicación del cálculo y estimación en la organización de tareas.</td>\n<td style=\"width: 41.0722%; height: 10px;\">Elaboración de un horario de estudio equilibrado y razonado.</td>\n<td style=\"width: 25.171%; height: 10px;\">STEM, CPSAA</td>\n</tr>\n<tr>\n<td style=\"width: 37.5384%;\">Relaciones y patrones: uso del pensamiento lógico para organizar la información.</td>\n<td style=\"width: 41.0722%;\">Creación de esquemas y mapas mentales para planificar contenidos de estudio.</td>\n<td style=\"width: 25.171%;\">STEM, CPSAA</td>\n</tr>\n<tr>\n<td style=\"width: 37.5384%;\">Representación e interpretación de datos.</td>\n<td style=\"width: 41.0722%;\">Diseño de una tabla o gráfico para representar hábitos de estudio o tiempo dedicado a cada materia.</td>\n<td style=\"width: 25.171%;\">STEM, CD, CPSAA</td>\n</tr>\n<tr>\n<td style=\"width: 37.5384%;\">Gestión emocional y autorregulación del aprendizaje.</td>\n<td style=\"width: 41.0722%;\">Autoevaluación final sobre el propio proceso de aprendizaje y emociones implicadas.</td>\n<td style=\"width: 25.171%;\">CPSAA, CC</td>\n</tr>\n<tr>\n<td style=\"width: 37.5384%;\">Trabajo cooperativo y comunicación asertiva.</td>\n<td style=\"width: 41.0722%;\">Elaboración grupal del mural colaborativo y exposición final ante la clase.</td>\n<td style=\"width: 25.171%;\">CC, CCL, CE</td>\n</tr>\n<tr>\n<td style=\"width: 37.5384%;\">Valoración del lenguaje como herramienta de comunicación, convivencia y aprendizaje.</td>\n<td style=\"width: 41.0722%;\">Reflexión final compartida: “¿Qué he aprendido sobre mí y mi forma de estudiar?”.</td>\n<td style=\"width: 25.171%;\">CCL, CPSAA, CC</td>\n</tr>\n<tr>\n<td style=\"width: 37.5384%;\"></td>\n<td style=\"width: 41.0722%;\"></td>\n<td style=\"width: 25.171%;\"></td>\n</tr>\n</tbody>\n</table>\n<p></p>"}]]></jsonProperties>
+          <odeComponentsOrder>2</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mnrpdzjk-zklqih0fh</odePageId>
+      <odeBlockId>block-mnogzhqm-xm5ac4xh4</odeBlockId>
+      <blockName>2.4 Criterios de evaluación relacionados con las competencias específicas</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnrpdzjk-zklqih0fh</odePageId>
+          <odeBlockId>block-mnogzhqm-xm5ac4xh4</odeBlockId>
+          <odeIdeviceId>idevice-mnogzhqm-buuq650gk</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<table border="1" style="width: 99.9999%; height: 257px;">
+<tbody>
+<tr style="height: 47px;">
+<td style="width: 33.3333%; text-align: center; height: 47px;"><span style="color: #000000;"><strong data-start="634" data-end="694">Competencias Específicas (adaptadas del Decreto 59/2022)</strong></span></td>
+<td style="width: 33.3333%; text-align: center; height: 47px;"><span style="color: #000000;"><strong>Criterios de Evaluación</strong></span></td>
+<td style="width: 33.3333%; text-align: center; height: 47px;"><span style="color: #000000;"><strong>Competencias Clave Asociadas</strong></span></td>
+</tr>
+<tr data-start="632" data-end="761" style="height: 117px;">
+<th data-start="632" data-end="695" data-col-size="lg" style="width: 33.3333%; text-align: justify; height: 117px;">CE1. Aplicar estrategias personales de aprendizaje (planificación, organización y autorregulación) para mejorar la autonomía y la eficacia en el estudio.</th>
+<td style="width: 33.3333%; height: 117px; text-align: justify;">
+<p>1.1. Planificar tareas de aprendizaje estableciendo objetivos realistas y estrategias adecuadas.</p>
+<p>1.2. Evaluar el propio proceso de estudio y aplicar mejoras.</p>
+</td>
+<td style="width: 33.3333%; height: 117px; text-align: center;">CPSAA, CE, CCL, CD</td>
+</tr>
+<tr style="height: 10px;">
+<td style="width: 33.3333%; height: 10px; text-align: justify;">CE2. Comprender, interpretar y valorar textos orales, escritos y multimodales, identificando su sentido, intención comunicativa y fiabilidad.</td>
+<td style="width: 33.3333%; height: 10px;">
+<p style="text-align: justify;">2.1. Comprender el sentido general y la información relevante de textos académicos o informativos.</p>
+<p style="text-align: justify;">2.2. Valorar la coherencia y la adecuación del contenido en función de la finalidad comunicativa.</p>
+</td>
+<td style="width: 33.3333%; height: 10px; text-align: center;">CCL, CP, CD, CPSAA</td>
+</tr>
+<tr style="height: 10px;">
+<td style="width: 33.3333%; height: 10px; text-align: justify;">CE3. Producir textos orales, escritos y digitales coherentes y adecuados, aplicando estrategias de planificación, revisión y mejora.</td>
+<td style="width: 33.3333%; height: 10px; text-align: justify;">3.1. Redactar o exponer textos propios (infografía, podcast o mural) con coherencia, corrección y creatividad. 3.2. Revisar y mejorar las producciones propias aplicando criterios de calidad.</td>
+<td style="width: 33.3333%; height: 10px; text-align: center;">CCL, CD, CPSAA, CCEC, CE</td>
+</tr>
+<tr style="height: 10px;">
+<td style="width: 33.3333%; height: 10px; text-align: justify;">CE4. Buscar, seleccionar y organizar información de distintas fuentes, contrastando su fiabilidad y respetando la autoría.</td>
+<td style="width: 33.3333%; height: 10px;">
+<p style="text-align: justify;">4.1. Utilizar herramientas digitales para localizar y organizar información relevante.</p>
+<p style="text-align: justify;">4.2. Integrar la información en producciones personales respetando los derechos de autor.</p>
+</td>
+<td style="width: 33.3333%; height: 10px; text-align: center;">CD, CCL, CPSAA, CC</td>
+</tr>
+<tr style="height: 10px;">
+<td style="width: 33.3333%; height: 10px; text-align: justify;">CE5. Resolver problemas mediante el razonamiento lógico y la representación de datos, aplicando conceptos matemáticos y estrategias de organización.</td>
+<td style="width: 33.3333%; height: 10px;">
+<p style="text-align: justify;">5.1. Interpretar y representar información en tablas, esquemas o gráficos.</p>
+<p style="text-align: justify;">5.2. Aplicar estrategias de resolución de problemas, justificando los procesos seguidos.</p>
+</td>
+<td style="width: 33.3333%; height: 10px; text-align: center;">STEM, CD, CPSAA</td>
+</tr>
+<tr style="height: 10px;">
+<td style="width: 33.3333%; height: 10px;">CE6. Utilizar el pensamiento lógico, la argumentación y el razonamiento computacional para analizar y estructurar información.</td>
+<td style="width: 33.3333%; height: 10px;">
+<p style="text-align: justify;">6.1. Formular conjeturas y argumentarlas de manera razonada.</p>
+<p style="text-align: justify;">6.2. Utilizar métodos de organización de la información (diagramas, algoritmos, esquemas) para facilitar el estudio.</p>
+</td>
+<td style="width: 33.3333%; height: 10px; text-align: center;">STEM, CD, CPSAA</td>
+</tr>
+<tr style="height: 23px;">
+<td style="width: 33.3333%; height: 23px; text-align: justify;">CE7. Comunicar información y razonamientos de manera clara y rigurosa, empleando distintos lenguajes (verbal, visual, matemático o digital).</td>
+<td style="width: 33.3333%; height: 23px;">
+<p style="text-align: justify;">7.1. Explicar procesos y resultados con precisión y lenguaje adecuado.</p>
+<p style="text-align: justify;">7.2. Utilizar diferentes soportes (oral, escrito, audiovisual) para transmitir conocimientos.</p>
+</td>
+<td style="width: 33.3333%; height: 23px; text-align: center;">CCL, STEM, CD, CPSAA, CCEC</td>
+</tr>
+<tr style="height: 10px;">
+<td style="width: 33.3333%; height: 10px; text-align: justify;">CE8. Participar activamente en tareas cooperativas, mostrando respeto, empatía y responsabilidad compartida.</td>
+<td style="width: 33.3333%; height: 10px;">
+<p style="text-align: justify;">8.1. Colaborar en grupos para la creación de productos colectivos (mural, podcast, infografía).</p>
+<p style="text-align: justify;">8.2. Escuchar y valorar las aportaciones de los demás, favoreciendo la convivencia y la cooperación.</p>
+</td>
+<td style="width: 33.3333%; height: 10px; text-align: center;">CC, CPSAA, CE, CCL</td>
+</tr>
+<tr style="height: 10px;">
+<td style="width: 33.3333%; height: 10px; text-align: justify;">CE9. Gestionar emociones y mantener una actitud positiva ante el aprendizaje, mostrando perseverancia y curiosidad.</td>
+<td style="width: 33.3333%; height: 10px;">
+<p style="text-align: justify;">9.1. Identificar emociones que influyen en el estudio y adoptar estrategias de autorregulación.</p>
+<p style="text-align: justify;">9.2. Demostrar perseverancia y autonomía ante los retos de aprendizaje.</p>
+</td>
+<td style="width: 33.3333%; height: 10px; text-align: center;">CPSAA, CE, CC</td>
+</tr>
+<tr>
+<td style="width: 33.3333%;">CE10. Utilizar el lenguaje y las matemáticas como herramientas para el pensamiento crítico y la convivencia democrática.</td>
+<td style="width: 33.3333%;">
+<p>10.1. Identificar usos discriminatorios o manipuladores del lenguaje y proponer alternativas respetuosas.</p>
+<p>10.2. Reconocer el valor de las matemáticas y la comunicación como medios de cooperación, equidad e inclusión.</p>
+</td>
+<td style="width: 33.3333%; text-align: center;">CCL, STEM, CC, CPSAA, CE</td>
+</tr>
+</tbody>
+</table>
+<p></p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<table border=\"1\" style=\"width: 99.9999%; height: 257px;\">\n<tbody>\n<tr style=\"height: 47px;\">\n<td style=\"width: 33.3333%; text-align: center; height: 47px;\"><span style=\"color: #000000;\"><strong data-start=\"634\" data-end=\"694\">Competencias Específicas (adaptadas del Decreto 59/2022)</strong></span></td>\n<td style=\"width: 33.3333%; text-align: center; height: 47px;\"><span style=\"color: #000000;\"><strong>Criterios de Evaluación</strong></span></td>\n<td style=\"width: 33.3333%; text-align: center; height: 47px;\"><span style=\"color: #000000;\"><strong>Competencias Clave Asociadas</strong></span></td>\n</tr>\n<tr data-start=\"632\" data-end=\"761\" style=\"height: 117px;\">\n<th data-start=\"632\" data-end=\"695\" data-col-size=\"lg\" style=\"width: 33.3333%; text-align: justify; height: 117px;\">CE1. Aplicar estrategias personales de aprendizaje (planificación, organización y autorregulación) para mejorar la autonomía y la eficacia en el estudio.</th>\n<td style=\"width: 33.3333%; height: 117px; text-align: justify;\">\n<p>1.1. Planificar tareas de aprendizaje estableciendo objetivos realistas y estrategias adecuadas.</p>\n<p>1.2. Evaluar el propio proceso de estudio y aplicar mejoras.</p>\n</td>\n<td style=\"width: 33.3333%; height: 117px; text-align: center;\">CPSAA, CE, CCL, CD</td>\n</tr>\n<tr style=\"height: 10px;\">\n<td style=\"width: 33.3333%; height: 10px; text-align: justify;\">CE2. Comprender, interpretar y valorar textos orales, escritos y multimodales, identificando su sentido, intención comunicativa y fiabilidad.</td>\n<td style=\"width: 33.3333%; height: 10px;\">\n<p style=\"text-align: justify;\">2.1. Comprender el sentido general y la información relevante de textos académicos o informativos.</p>\n<p style=\"text-align: justify;\">2.2. Valorar la coherencia y la adecuación del contenido en función de la finalidad comunicativa.</p>\n</td>\n<td style=\"width: 33.3333%; height: 10px; text-align: center;\">CCL, CP, CD, CPSAA</td>\n</tr>\n<tr style=\"height: 10px;\">\n<td style=\"width: 33.3333%; height: 10px; text-align: justify;\">CE3. Producir textos orales, escritos y digitales coherentes y adecuados, aplicando estrategias de planificación, revisión y mejora.</td>\n<td style=\"width: 33.3333%; height: 10px; text-align: justify;\">3.1. Redactar o exponer textos propios (infografía, podcast o mural) con coherencia, corrección y creatividad. 3.2. Revisar y mejorar las producciones propias aplicando criterios de calidad.</td>\n<td style=\"width: 33.3333%; height: 10px; text-align: center;\">CCL, CD, CPSAA, CCEC, CE</td>\n</tr>\n<tr style=\"height: 10px;\">\n<td style=\"width: 33.3333%; height: 10px; text-align: justify;\">CE4. Buscar, seleccionar y organizar información de distintas fuentes, contrastando su fiabilidad y respetando la autoría.</td>\n<td style=\"width: 33.3333%; height: 10px;\">\n<p style=\"text-align: justify;\">4.1. Utilizar herramientas digitales para localizar y organizar información relevante.</p>\n<p style=\"text-align: justify;\">4.2. Integrar la información en producciones personales respetando los derechos de autor.</p>\n</td>\n<td style=\"width: 33.3333%; height: 10px; text-align: center;\">CD, CCL, CPSAA, CC</td>\n</tr>\n<tr style=\"height: 10px;\">\n<td style=\"width: 33.3333%; height: 10px; text-align: justify;\">CE5. Resolver problemas mediante el razonamiento lógico y la representación de datos, aplicando conceptos matemáticos y estrategias de organización.</td>\n<td style=\"width: 33.3333%; height: 10px;\">\n<p style=\"text-align: justify;\">5.1. Interpretar y representar información en tablas, esquemas o gráficos.</p>\n<p style=\"text-align: justify;\">5.2. Aplicar estrategias de resolución de problemas, justificando los procesos seguidos.</p>\n</td>\n<td style=\"width: 33.3333%; height: 10px; text-align: center;\">STEM, CD, CPSAA</td>\n</tr>\n<tr style=\"height: 10px;\">\n<td style=\"width: 33.3333%; height: 10px;\">CE6. Utilizar el pensamiento lógico, la argumentación y el razonamiento computacional para analizar y estructurar información.</td>\n<td style=\"width: 33.3333%; height: 10px;\">\n<p style=\"text-align: justify;\">6.1. Formular conjeturas y argumentarlas de manera razonada.</p>\n<p style=\"text-align: justify;\">6.2. Utilizar métodos de organización de la información (diagramas, algoritmos, esquemas) para facilitar el estudio.</p>\n</td>\n<td style=\"width: 33.3333%; height: 10px; text-align: center;\">STEM, CD, CPSAA</td>\n</tr>\n<tr style=\"height: 23px;\">\n<td style=\"width: 33.3333%; height: 23px; text-align: justify;\">CE7. Comunicar información y razonamientos de manera clara y rigurosa, empleando distintos lenguajes (verbal, visual, matemático o digital).</td>\n<td style=\"width: 33.3333%; height: 23px;\">\n<p style=\"text-align: justify;\">7.1. Explicar procesos y resultados con precisión y lenguaje adecuado.</p>\n<p style=\"text-align: justify;\">7.2. Utilizar diferentes soportes (oral, escrito, audiovisual) para transmitir conocimientos.</p>\n</td>\n<td style=\"width: 33.3333%; height: 23px; text-align: center;\">CCL, STEM, CD, CPSAA, CCEC</td>\n</tr>\n<tr style=\"height: 10px;\">\n<td style=\"width: 33.3333%; height: 10px; text-align: justify;\">CE8. Participar activamente en tareas cooperativas, mostrando respeto, empatía y responsabilidad compartida.</td>\n<td style=\"width: 33.3333%; height: 10px;\">\n<p style=\"text-align: justify;\">8.1. Colaborar en grupos para la creación de productos colectivos (mural, podcast, infografía).</p>\n<p style=\"text-align: justify;\">8.2. Escuchar y valorar las aportaciones de los demás, favoreciendo la convivencia y la cooperación.</p>\n</td>\n<td style=\"width: 33.3333%; height: 10px; text-align: center;\">CC, CPSAA, CE, CCL</td>\n</tr>\n<tr style=\"height: 10px;\">\n<td style=\"width: 33.3333%; height: 10px; text-align: justify;\">CE9. Gestionar emociones y mantener una actitud positiva ante el aprendizaje, mostrando perseverancia y curiosidad.</td>\n<td style=\"width: 33.3333%; height: 10px;\">\n<p style=\"text-align: justify;\">9.1. Identificar emociones que influyen en el estudio y adoptar estrategias de autorregulación.</p>\n<p style=\"text-align: justify;\">9.2. Demostrar perseverancia y autonomía ante los retos de aprendizaje.</p>\n</td>\n<td style=\"width: 33.3333%; height: 10px; text-align: center;\">CPSAA, CE, CC</td>\n</tr>\n<tr>\n<td style=\"width: 33.3333%;\">CE10. Utilizar el lenguaje y las matemáticas como herramientas para el pensamiento crítico y la convivencia democrática.</td>\n<td style=\"width: 33.3333%;\">\n<p>10.1. Identificar usos discriminatorios o manipuladores del lenguaje y proponer alternativas respetuosas.</p>\n<p>10.2. Reconocer el valor de las matemáticas y la comunicación como medios de cooperación, equidad e inclusión.</p>\n</td>\n<td style=\"width: 33.3333%; text-align: center;\">CCL, STEM, CC, CPSAA, CE</td>\n</tr>\n</tbody>\n</table>\n<p></p>"}]]></jsonProperties>
+          <odeComponentsOrder>3</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnrpdzjk-ycr7jcnph</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>3. Metodologías activas</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Metodologías activas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Metodologías activas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnrpdzjk-ycr7jcnph</odePageId>
+      <odeBlockId>block-mnogzhqm-mwcbltluu</odeBlockId>
+      <blockName>Aprendizaje Cooperativo</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnrpdzjk-ycr7jcnph</odePageId>
+          <odeBlockId>block-mnogzhqm-mwcbltluu</odeBlockId>
+          <odeIdeviceId>idevice-mnogzhqm-zdxb8w43t</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p style="text-align: justify;">El alumnado trabaja en grupos heterogéneos donde cada miembro asume un rol y una responsabilidad dentro de las tareas comunes (creación de la infografía, grabación del podcast y diseño del mural colaborativo).<br />Esta metodología favorece la interdependencia positiva, la responsabilidad individual y grupal y el desarrollo de habilidades sociales como la empatía, la comunicación asertiva y la resolución pacífica de conflictos.<br />A través de la cooperación, los alumnos y las alumnas aprenden unos de otros, fortaleciendo la autoestima y la convivencia democrática</p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p style=\"text-align: justify;\">El alumnado trabaja en grupos heterogéneos donde cada miembro asume un rol y una responsabilidad dentro de las tareas comunes (creación de la infografía, grabación del podcast y diseño del mural colaborativo).<br />Esta metodología favorece la interdependencia positiva, la responsabilidad individual y grupal y el desarrollo de habilidades sociales como la empatía, la comunicación asertiva y la resolución pacífica de conflictos.<br />A través de la cooperación, los alumnos y las alumnas aprenden unos de otros, fortaleciendo la autoestima y la convivencia democrática</p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mnrpdzjk-ycr7jcnph</odePageId>
+      <odeBlockId>block-mnogzhqm-4ee0kv4rc</odeBlockId>
+      <blockName>Aprendizaje Basado en Proyectos (ABP)</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnrpdzjk-ycr7jcnph</odePageId>
+          <odeBlockId>block-mnogzhqm-4ee0kv4rc</odeBlockId>
+          <odeIdeviceId>idevice-mnogzhqm-zjd2v1esj</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p style="text-align: justify;">La situación se plantea como un proyecto global, en el que el alumnado investiga y experimenta distintas técnicas de estudio para crear productos finales (infografía interactiva, podcast y mural colaborativo).<br />El proceso combina investigación, planificación, creación y exposición, conectando el aprendizaje con su realidad cotidiana.<br />De esta forma, se promueve un aprendizaje activo, significativo y competencial, donde el estudiante es protagonista y el docente actúa como guía y facilitador del proceso.</p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p style=\"text-align: justify;\">La situación se plantea como un proyecto global, en el que el alumnado investiga y experimenta distintas técnicas de estudio para crear productos finales (infografía interactiva, podcast y mural colaborativo).<br />El proceso combina investigación, planificación, creación y exposición, conectando el aprendizaje con su realidad cotidiana.<br />De esta forma, se promueve un aprendizaje activo, significativo y competencial, donde el estudiante es protagonista y el docente actúa como guía y facilitador del proceso.</p>"}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mnrpdzjk-ycr7jcnph</odePageId>
+      <odeBlockId>block-mnogzhqm-yqgomccw3</odeBlockId>
+      <blockName>Aprendizaje Basado en el Pensamiento</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnrpdzjk-ycr7jcnph</odePageId>
+          <odeBlockId>block-mnogzhqm-yqgomccw3</odeBlockId>
+          <odeIdeviceId>idevice-mnogzhqm-e2rcvib7r</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p style="text-align: justify;">Se fomenta el desarrollo del pensamiento crítico, reflexivo y metacognitivo.<br />El alumnado analiza cómo aprende mejor, compara estrategias de estudio, toma decisiones y evalúa su propio progreso.<br />A través de rutinas de pensamiento (“¿Qué sé? ¿Qué necesito aprender? ¿Cómo puedo mejorar?”), los estudiantes adquieren conciencia de su propio proceso de aprendizaje y desarrollan la competencia para aprender a aprender, eje central de esta SdA.</p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p style=\"text-align: justify;\">Se fomenta el desarrollo del pensamiento crítico, reflexivo y metacognitivo.<br />El alumnado analiza cómo aprende mejor, compara estrategias de estudio, toma decisiones y evalúa su propio progreso.<br />A través de rutinas de pensamiento (“¿Qué sé? ¿Qué necesito aprender? ¿Cómo puedo mejorar?”), los estudiantes adquieren conciencia de su propio proceso de aprendizaje y desarrollan la competencia para aprender a aprender, eje central de esta SdA.</p>"}]]></jsonProperties>
+          <odeComponentsOrder>2</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnrpdzjl-u56hf55j1</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>4. Vinculación con los proyectos y programas del centro</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Vinculación con los proyectos y programas del centro</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Vinculación con los proyectos y programas del centro</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnrpdzjl-u56hf55j1</odePageId>
+      <odeBlockId>block-mnogzhqm-pjthkgq8c</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnrpdzjl-u56hf55j1</odePageId>
+          <odeBlockId>block-mnogzhqm-pjthkgq8c</odeBlockId>
+          <odeIdeviceId>idevice-mnogzhqm-jzflz4efs</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p style="text-align: justify;">Esta situación de aprendizaje se vincula con algunos de los proyectos y programas de centro, los cuales son:</p>
+<ul>
+<li style="text-align: justify;"><strong>PLEI (Plan de Lectura, Escritura e Investigación)</strong><br />Se fomenta la comprensión lectora, la expresión oral y escrita y la búsqueda de información en diversas fuentes, contribuyendo al desarrollo de la competencia lingüística (CCL) y la competencia de aprender a aprender (CPSAA).</li>
+<li><strong>PDC (Plan Digital de Centro)</strong><br />Se integran recursos tecnológicos, entornos virtuales y herramientas digitales para la creación, comunicación y trabajo colaborativo, en línea con la Competencia Digital (CD) y las directrices del programa CompDigEdu.</li>
+<li><strong>PAD (Programa de Atención a la Diversidad)</strong><br />Se adaptan metodologías activas y recursos a las necesidades individuales, asegurando la equidad y participación de todo el alumnado.</li>
+<li>PROA+ <br />La propuesta promueve el avance y la equidad educativa mediante el aprendizaje cooperativo y la atención personalizada, en coherencia con los objetivos del PROA+ para el fortalecimiento de los centros con mayor complejidad educativa</li>
+<li><strong>Programa de refuerzo de la competencia matemática y Programa de refuerzo de la competencia lectora:</strong><br />Se refuerzan las competencias matemática y lectora a través de actividades contextualizadas que implican razonamiento lógico y comprensión de textos</li>
+<li><strong>Programa de Bienestar Emocional</strong><br />Se incorporan dinámicas cooperativas que refuerzan la empatía, la autoestima y la convivencia positiva en el aula.</li>
+<li><strong>Plan de Coeducación</strong><br />Se trabaja la igualdad de género y el respeto a la diversidad en los materiales y dinámicas de aula, de acuerdo con el Decreto 30/2023 sobre Coeducación.</li>
+<li><strong>Proyectos de Innovación Educativa</strong><br />Se emplean metodologías activas (ABP, aprendizaje cooperativo, gamificación) promovidas por la Consejería para el desarrollo competencial y la motivación del alumnado</li>
+</ul>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p style=\"text-align: justify;\">Esta situación de aprendizaje se vincula con algunos de los proyectos y programas de centro, los cuales son:</p>\n<ul>\n<li style=\"text-align: justify;\"><strong>PLEI (Plan de Lectura, Escritura e Investigación)</strong><br />Se fomenta la comprensión lectora, la expresión oral y escrita y la búsqueda de información en diversas fuentes, contribuyendo al desarrollo de la competencia lingüística (CCL) y la competencia de aprender a aprender (CPSAA).</li>\n<li><strong>PDC (Plan Digital de Centro)</strong><br />Se integran recursos tecnológicos, entornos virtuales y herramientas digitales para la creación, comunicación y trabajo colaborativo, en línea con la Competencia Digital (CD) y las directrices del programa CompDigEdu.</li>\n<li><strong>PAD (Programa de Atención a la Diversidad)</strong><br />Se adaptan metodologías activas y recursos a las necesidades individuales, asegurando la equidad y participación de todo el alumnado.</li>\n<li>PROA+ <br />La propuesta promueve el avance y la equidad educativa mediante el aprendizaje cooperativo y la atención personalizada, en coherencia con los objetivos del PROA+ para el fortalecimiento de los centros con mayor complejidad educativa</li>\n<li><strong>Programa de refuerzo de la competencia matemática y Programa de refuerzo de la competencia lectora:</strong><br />Se refuerzan las competencias matemática y lectora a través de actividades contextualizadas que implican razonamiento lógico y comprensión de textos</li>\n<li><strong>Programa de Bienestar Emocional</strong><br />Se incorporan dinámicas cooperativas que refuerzan la empatía, la autoestima y la convivencia positiva en el aula.</li>\n<li><strong>Plan de Coeducación</strong><br />Se trabaja la igualdad de género y el respeto a la diversidad en los materiales y dinámicas de aula, de acuerdo con el Decreto 30/2023 sobre Coeducación.</li>\n<li><strong>Proyectos de Innovación Educativa</strong><br />Se emplean metodologías activas (ABP, aprendizaje cooperativo, gamificación) promovidas por la Consejería para el desarrollo competencial y la motivación del alumnado</li>\n</ul>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnrpdzjl-7q37yf9ki</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>5. Actividades complementarias y extraescolares</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. Actividades complementarias y extraescolares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. Actividades complementarias y extraescolares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnrpdzjl-7q37yf9ki</odePageId>
+      <odeBlockId>block-mnogzhqm-k4uhmcq7b</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnrpdzjl-7q37yf9ki</odePageId>
+          <odeBlockId>block-mnogzhqm-k4uhmcq7b</odeBlockId>
+          <odeIdeviceId>idevice-mnogzhqm-eyrc94hwf</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p style="text-align: justify;">En esta situación de aprendizaje no se llevarán a cabo actividades complementarias ni extraescolares, ya que todas las tareas, dinámicas y productos finales están diseñados para desarrollarse dentro del horario lectivo y en el aula ordinaria, aprovechando los recursos digitales y materiales del centro.</p>
+<p style="text-align: justify;">El objetivo principal de esta SdA es fomentar la autonomía del alumnado y el aprendizaje autorregulado, por lo que las actividades se centran en la práctica diaria de técnicas de estudio, la reflexión personal y el trabajo cooperativo. Estas acciones no requieren desplazamientos ni recursos externos, sino un entorno de aprendizaje guiado y cercano que facilite la observación, la tutoría y la evaluación continua del progreso del alumnado.</p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p style=\"text-align: justify;\">En esta situación de aprendizaje no se llevarán a cabo actividades complementarias ni extraescolares, ya que todas las tareas, dinámicas y productos finales están diseñados para desarrollarse dentro del horario lectivo y en el aula ordinaria, aprovechando los recursos digitales y materiales del centro.</p>\n<p style=\"text-align: justify;\">El objetivo principal de esta SdA es fomentar la autonomía del alumnado y el aprendizaje autorregulado, por lo que las actividades se centran en la práctica diaria de técnicas de estudio, la reflexión personal y el trabajo cooperativo. Estas acciones no requieren desplazamientos ni recursos externos, sino un entorno de aprendizaje guiado y cercano que facilite la observación, la tutoría y la evaluación continua del progreso del alumnado.</p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnrpdzjl-ju4ivnxfe</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>6. Atribución y fichero descargable.</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. Atribución y fichero descargable.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. Atribución y fichero descargable.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnrpdzjl-ju4ivnxfe</odePageId>
+      <odeBlockId>block-mnogzhqn-1nlrri1t8</odeBlockId>
+      <blockName>Descargar archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnrpdzjl-ju4ivnxfe</odePageId>
+          <odeBlockId>block-mnogzhqn-1nlrri1t8</odeBlockId>
+          <odeIdeviceId>idevice-mnogzhqn-bzy2vnbro</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td>SA "APRENDER A APRENDER"</td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td>Esta es una SA orientada al alumnado de 1º de la ESO. Cuya temática son las técnicas de estudio, bajo el título ·Aprender a aprender"</td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td>Verónica López Conejo</td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td><a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="license" class="cc cc-by-sa"><span></span>Creative Commons BY-SA 4.0</a></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="http://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#aaff56;color:#000000;">Descargar el fichero .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
